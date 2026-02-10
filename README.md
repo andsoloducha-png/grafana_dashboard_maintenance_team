@@ -136,24 +136,6 @@ Wszystkie zapytania wykorzystują:
 3. **COALESCE** - obsługa wartości NULL w agregacjach
 4. **Klucze logiczne** - unikalne identyfikatory dla wizualizacji w Grafanie
 
-## Struktura katalogów
-
-```
-gda-mft-overview-dashboard/
-├── README.md
-├── docs/
-│   └── Dashboard_GDA_MFT_Overview.pdf
-├── sql/
-│   ├── oee_counters.sql
-│   ├── oee_events.sql
-│   └── oee_gda_sort.sql
-└── images/
-    ├── 1.jpg (Dashboard - Shift 1 & 2 Overview)
-    ├── 2.jpg (Events Detail View)
-    ├── 3.jpg (Chutes Sorted Analysis)
-    └── 4.jpg (Optimus NIO Breakdown)
-```
-
 ## Możliwe rozszerzenia
 
 1. **Progi w Grafanie** - automatyczna zmiana wizualna po osiągnięciu wartości krytycznych
