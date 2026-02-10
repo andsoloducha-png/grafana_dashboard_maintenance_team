@@ -17,9 +17,7 @@ gda-mft-overview-dashboard/
 ├── docs/                     # Documentation
 │   ├── SQL_QUERIES.md       # Detailed SQL documentation
 │   ├── INSTALLATION.md      # Setup and installation guide
-│   └── Dashboard_GDA_MFT_Overview__Grafana___SQL___1_.pdf
-│                            # Original project documentation (Polish)
-│
+|
 └── images/                   # Dashboard screenshots
     ├── README.md            # Screenshot descriptions
     ├── 1.jpg               # Main dashboard overview (both shifts)
