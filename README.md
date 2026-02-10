@@ -8,10 +8,10 @@ Dashboard GDA_MFT_Overview służy do monitorowania parametrów pracy systemów 
 
 ### Podstawowe funkcjonalności
 
-- Monitorowanie zdarzeń operacyjnych (product jam, emergency stop, chute full)
-- Analiza wydajności linii produkcyjnych (Multi, Single, Big Item, High Value)
-- Tracking parametrów shippingu (zrzutnie, read ratio, NOK)
-- Szczegółowa analiza NIO dla sorterów Optimus
+- Monitorowanie zdarzeń operacyjnych 
+- Analiza wydajności linii 
+- Tracking parametrów 
+- Szczegółowa analiza nieprawidłowości operacyjnych
 
 ## Architektura
 
