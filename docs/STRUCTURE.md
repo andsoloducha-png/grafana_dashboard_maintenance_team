@@ -4,7 +4,6 @@
 gda-mft-overview-dashboard/
 │
 ├── README.md                  # Main project documentation
-├── LICENSE                    # MIT License
 ├── CHANGELOG.md              # Version history and changes
 ├── CONTRIBUTING.md           # Contribution guidelines
 ├── .gitignore               # Git ignore patterns
@@ -30,7 +29,6 @@ gda-mft-overview-dashboard/
 
 ### Root Files
 - **README.md**: Comprehensive project overview, features, and usage
-- **LICENSE**: MIT license for the project
 - **CHANGELOG.md**: Version history with detailed change notes
 - **CONTRIBUTING.md**: Guidelines for contributing to the project
 - **.gitignore**: Specifies intentionally untracked files
