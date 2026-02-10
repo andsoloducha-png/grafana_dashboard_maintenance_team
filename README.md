@@ -36,10 +36,10 @@ Dashboard podzielony jest na cztery główne sekcje:
 Dashboard wykorzystuje trzy główne tabele PostgreSQL:
 
 ### oee_counters
-Zawiera dane o ilości paczek z linii oraz shipping:
-- Linie multi, single, big item, high value
-- Zrzutnie (218-244)
-- Skanery outbound
+Zawiera dane o ilości paczek z linii oraz systemu sortującego:
+- Linie 
+- Zrzutnie 
+- Skanery
 
 ### oee_events
 Przechowuje zdarzenia operacyjne:
@@ -50,7 +50,7 @@ Przechowuje zdarzenia operacyjne:
 
 ### oee_gda_sort
 Dane z systemu Inconso dla sorterów Optimus:
-- NIO (Non-Identified Objects)
+- NIO (nieprawidłowość operacyjna)
 - Ilości posortowanych elementów
 - Read ratio
 
