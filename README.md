@@ -1,6 +1,6 @@
 # GDA MFT Overview Dashboard
 
-Dashboard do monitorowania nieprawidłości operacyjnych w systemie MFT (Material Flow Technology) w centrum logistycznym GDA.
+Dashboard do monitorowania nieprawidłości operacyjnych w systemie Material Flow Technology w centrum logistycznym.
 
 ## Opis projektu
 
@@ -29,7 +29,7 @@ Dashboard podzielony jest na cztery główne sekcje:
 1. **Zdarzenia** - główna część zliczania zdarzeń operacyjnych
 2. **Multi, Single, BI, HV** - wizualizacja wyników z poszczególnych linii
 3. **Shipping** - dane dotyczące zrzutni, posortowanych paczek, chute full, read ratio oraz NOK
-4. **Optimus - NIO** - szczegółowa analiza NIO dla każdego sortera Optimus
+4. **Optimus - NIO** - szczegółowa analiza nieprawidłowości operacyjnych
 
 ## Źródła danych
 
@@ -87,8 +87,8 @@ Agreguje błędy NIO i oblicza read_ratio dla sorterów.
 
 Wszystkie zapytania uwzględniają podział na dwie zmiany robocze:
 
-- **Zmiana 1:** 06:07:00 - 14:15:00
-- **Zmiana 2:** 14:20:00 - 22:30:00
+- **Zmiana 1:** 
+- **Zmiana 2:** 
 
 Takie podejście umożliwia:
 - Analizę danych wyłącznie z godzin procesu
@@ -169,8 +169,8 @@ gda-mft-overview-dashboard/
 
 ## Licencja
 
-Dokumentacja i kod SQL stanowią własność zespołu MFT w centrum logistycznym GDA.
+Dokumentacja i kod SQL stanowią własność zespołu technicznego.
 
 ## Kontakt
 
-Dla pytań technicznych lub sugestii dotyczących dashboardu, skontaktuj się z zespołem MFT.
+Dla pytań technicznych lub sugestii dotyczących dashboardu, skontaktuj się z autorem.
