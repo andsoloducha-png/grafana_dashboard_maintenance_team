@@ -15,7 +15,7 @@ Shows the complete dashboard view with both shifts displayed side by side:
 **Key Metrics Visible:**
 - Total event counts and durations per shift
 - Sorted package counts per line
-- Read ratios (99.8-99.9%)
+- Read ratios 
 - Emergency stop indicators
 
 ### 2.jpg - Events Detail View
@@ -47,13 +47,8 @@ Comprehensive shipping analysis:
 - **NOK jam duration**: Time spent clearing jams
 - **Count**: Total NOK jam occurrences
 
-**Notable Data Points:**
-- Highest throughput chutes: 226 (2130), 229 (2400), 233 (2557)
-- Read ratio consistently above 99%
-- Chute full events tracked with duration
-
 ### 4.jpg - Optimus NIO Breakdown (Shift 1 & 2)
-Detailed NIO (Non-Identified Objects) analysis by sorter:
+Detailed NIO analysis by sorter:
 - **Sorted**: Total packages processed by each sorter (SO20-SO45)
 - **NIO Total**: Count of all error types
 - **Duplicate barcode**: Packages with duplicate identifiers
@@ -66,17 +61,12 @@ Detailed NIO (Non-Identified Objects) analysis by sorter:
 - **Reject**: Manual/automatic rejections
 - **Too early/Too late**: Timing errors
 - **Unknown**: Unclassified errors
-- **Wrongsorter**: Routing errors
+- **Wrongsorter**:
 
 **Read Ratio Section:**
-- Presorters (SO20, SO25): 99.3%, 98.9%
-- Main Sorters (SO30, SO35): 99.0%, 98.5%
+- Presorters 
+- Main Sorters 
 - Color-coded boxes for quick visual assessment
-
-**Key Insights:**
-- SO25 shows highest sorted volume across both shifts
-- Most common errors: No read, Gap, Duplicate barcode
-- Read ratios maintained above 98% target
 
 ## Usage
 
@@ -86,10 +76,3 @@ These screenshots serve as:
 3. Training material for new users
 4. Baseline for performance comparisons
 
-## Update Frequency
-
-Screenshots should be updated when:
-- Dashboard layout changes significantly
-- New panels or sections are added
-- Major visualization improvements are implemented
-- Quarterly for documentation purposes
