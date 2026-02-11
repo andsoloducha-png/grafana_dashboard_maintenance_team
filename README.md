@@ -114,8 +114,7 @@ Takie podejście umożliwia:
 - 130: Emergency stop (button/pull cord/area)
 
 ### Identyfikatory sorterów (sorter_id)
-- 20, 25, 30, 35: Main Sorters
-- 40, 45: Presorters
+- 20, 25, 30, 35, 40, 45
 
 ## Przetwarzanie danych w Grafanie
 
