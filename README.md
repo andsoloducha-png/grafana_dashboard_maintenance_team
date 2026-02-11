@@ -148,10 +148,6 @@ Wszystkie zapytania wykorzystują:
 - Grafana 8.0+
 - Dostęp do tabel: oee_counters, oee_events, oee_gda_sort
 
-## Licencja
-
-Dokumentacja i kod SQL stanowią własność zespołu technicznego.
-
 ## Kontakt
 
 Dla pytań technicznych lub sugestii dotyczących dashboardu, skontaktuj się z autorem.
