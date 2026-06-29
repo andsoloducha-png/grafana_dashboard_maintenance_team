@@ -1,6 +1,6 @@
 # GDA MFT Overview Dashboard
 
-Dashboard do monitorowania nieprawidłości operacyjnych w systemie Material Flow Technology w centrum logistycznym.
+Dashboard do monitorowania nieprawidłości operacyjnych widocznych w rejestrze maszyn.
 
 ## Opis projektu
 
